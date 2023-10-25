@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+
+.v-toolbar-title-global {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold !important;
+    font-size: 35px !important; /* Ajusta el tamaño de fuente según tus necesidades */
+}
